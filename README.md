@@ -1,4 +1,6 @@
 # LoLApiExecutor
+<a href="https://www.codefactor.io/repository/github/stukeley/lolapiexecutor"><img src="https://www.codefactor.io/repository/github/stukeley/lolapiexecutor/badge" alt="CodeFactor" /></a>
+
 Simple tool for executing API requests for the League of Legends Client.
 
 # Why?
