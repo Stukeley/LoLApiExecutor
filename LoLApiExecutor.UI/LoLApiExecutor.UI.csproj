@@ -6,8 +6,4 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\LoLApiExecutor.Code\LoLApiExecutor.Code.csproj" />
-  </ItemGroup>
-
 </Project>
